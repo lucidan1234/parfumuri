@@ -1,0 +1,28 @@
+body {
+    color: rgb(82, 112, 125);
+    background-color: rgb(244, 241, 247);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.container .card {
+    width: 500px;
+    height: 600px;
+}
+
+.container .card img {
+    /* aspect-ratio: auto; */
+    width: 260px;
+    height: 280px;
+}
