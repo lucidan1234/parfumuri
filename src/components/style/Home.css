@@ -22,7 +22,12 @@ body {
 }
 
 .container .card img {
-    /* aspect-ratio: auto; */
+    aspect-ratio: auto;
     width: 260px;
     height: 280px;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: end;
 }

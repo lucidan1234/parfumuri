@@ -7,7 +7,7 @@
 
 .navbar_links ul {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
 }
 
 .navbar_links ul li {
@@ -21,7 +21,6 @@
 .navbar_links ul li:hover {
     background-color: #c1b6f0;
     border-radius: 4px;
-    padding: 5px;
 }
 
 li a {

@@ -2,9 +2,7 @@ import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
 import { Carousel } from "react-responsive-carousel"
-import './style/Details.css'
-
-
+import './style/details.css'
 
 const Details = () => {
 
@@ -17,6 +15,7 @@ const Details = () => {
             const response = await res.json()
             setParfumes(response.filter(p => Number(p.id) === Number(id)))
         }
+
 
         fetchData()
     }, [id])
@@ -37,10 +36,10 @@ const Details = () => {
 
 
             </div>
-            <div className="Details">
+            <div className="detailsContainer">
                 {parfumes?.map((e, key) => {
                     return (
-                        <span key={key}>{e.longDescription}</span>
+                        <h3 key={key}>{e.longDescription}</h3>
                     )
                 })}
             </div>
@@ -48,14 +47,13 @@ const Details = () => {
                 {parfumes?.map(e => e.reviews.map((i, key) => {
                     return (
                         <div key={key}>
-                            <span>{i.name}</span>
-                            <span>{i.comment}</span>
+                            <span className="userName">{i.name}</span>
+                            <span className="comment">{i.comment}</span>
                         </div>
                     )
                 })
                 )}
             </div>
-
         </div>
     )
 }

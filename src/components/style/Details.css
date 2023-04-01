@@ -1,11 +1,19 @@
-.container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+.container-details {
+    display: flex;
+    /* grid-template-columns: repeat(2, 1fr); */
     justify-items: center;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+
 }
 
 .carousel {
-    max-width: 380px;
+    display: grid;
+    padding: 20px;
+    margin: 10px;
+    max-width: 450px;
+
 }
 
 img {
@@ -14,6 +22,14 @@ img {
     height: auto;
 }
 
-.Details {
+.detailsContent {
     max-width: 500px;
+}
+
+.comment {
+    font-style: italic;
+}
+
+.userName {
+    font-weight: bold;
 }

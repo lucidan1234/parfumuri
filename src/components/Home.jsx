@@ -1,11 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import './style/Home.css';
-import Navbar from './Navbar';
+import './style/home.css';
+import Navbar from './navbar';
 import { useNavigate } from 'react-router-dom';
+import Search from './search';
+
+
 
 
 function Home() {
     const [parfumes, setParfumes] = useState([])
+    const [searchParfume, setSearchParfume] = useState('')
     const navigate = useNavigate()
     useEffect(() => {
         const fetchData = async () => {
@@ -18,12 +22,12 @@ function Home() {
     return (
         <div>
             <Navbar />
+            <div className='search-bar'><Search handleSearchParfume={setSearchParfume} /></div>
             <div className='content'>
-
                 <h1>Parfumes</h1>
                 <p>Here you can find the latest and most popular parfumes.</p>
                 <div className='container'>
-                    {parfumes.map((parfume, key) => (
+                    {parfumes.filter(parfume => parfume.name.toLowerCase().includes(searchParfume.toLowerCase())).map((parfume, key) => (
 
                         <div key={key} className="card" onClick={() => navigate(`/details/${parfume.id}`)
                         }>

@@ -1,23 +1,25 @@
 
 import React from "react";
-import { Link } from "react-router-dom";
-import "./style/Navbar.css";
+import { Link, useNavigate } from "react-router-dom";
+import "./style/navbar.css";
+
 
 const Navbar = () => {
+    const navigate = useNavigate();
 
 
 
     return (
+
         <div className="nav_container">
             <span>
                 <Link to="/"></Link>
             </span>
             <nav className="navbar_links">
                 <ul className="ul">
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/">Card</Link></li>
-                    <li><Link to="/">Search</Link></li>
-                    <li><Link to="/">Contact</Link></li>
+                    <li onClick={() => navigate("/")}>Home</li>
+                    <li onClick={() => navigate("/contact")}>Contact</li>
+                    <li onClick={() => navigate("/order")}>Order</li>
 
                 </ul>
             </nav>

@@ -1,0 +1,45 @@
+.contact-container {
+    justify-content: center;
+    display: grid;
+    color: black;
+
+}
+
+.input {
+    padding: 10px 50px;
+}
+
+.button {
+    margin-top: 1rem;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.topic {
+    display: grid;
+    justify-content: center;
+    padding: 5px;
+}
+
+.name {
+    display: grid;
+    justify-content: center;
+    padding: 5px;
+}
+
+.email {
+    display: grid;
+    justify-content: center;
+    padding: 5px;
+}
+
+.submit {
+    display: grid;
+    justify-content: center;
+    margin: 20px;
+}
+
+.input.name {
+    display: grid;
+    justify-content: center;
+}
