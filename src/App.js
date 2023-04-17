@@ -1,4 +1,3 @@
-
 import Home from './components/home';
 import { Routes, Route } from 'react-router-dom'
 import Details from './components/details';
@@ -12,8 +11,6 @@ function App() {
       <Route path='/details/:id' element={<Details />}></Route>
       <Route path='/order' element={<Order />}></Route>
       <Route path='/contact' element={<Contact />}></Route>
-
-
     </Routes>
   );
 }

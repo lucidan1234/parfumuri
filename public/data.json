@@ -5,6 +5,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Maahir-100-ml.jpg",
         "description": "An oriental floral Arabic perfume.",
         "longDescription": "Discover the Arabic oriental perfume Maahir in a unique presentation, 100 ml bottle for Unisex produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Maahir by Lattafa Perfumes 100 ml",
@@ -48,6 +49,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Maahir-Black-Edition-100-ml.jpg",
         "description": "An oriental Arabic perfume.",
         "longDescription": "Discover the oriental Arabic perfume Maahir Black Edition in a unique presentation, 100 ml bottle for Men produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 105,
         "imagesDetail": [
             {
                 "name": "Maahir Black Edition 100 ml",
@@ -83,6 +85,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2022/02/Rasheed-Parfum-Arabesc-Original-Grandeur-Elite-Cadet-Blue-100-ml.jpg",
         "description": "Olfactory Character: Oriental – Woody",
         "longDescription": "Discover the Arab oriental perfume Cadet Blue in a unique presentation, 100 ml bottle for Men produced by the great manufacturer: Grandeur Elite.",
+        "price": 110,
         "imagesDetail": [
             {
                 "name": "Cadet Blue by Grandeur Elite 100 ml",
@@ -105,6 +108,7 @@
         "name": "Now by RAVE 100 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2021/04/escent_Rave_Now-4-Cropped-400x400.jpg",
         "description": "",
+        "price": 103,
         "longDescription": "Rave Now is an oriental men's perfume, with a strong and intriguing aroma. Top notes of mandarin, lemon and spices give a fresh and energizing scent. The middle notes of amber, floral notes and pralines add a sweet and indulgent air. The base notes of patchouli, tonka bean, cedar wood and sandalwood provide a warm and comfortable fragrance that will last all day. Rave Now is perfect for men who want to feel strong and confident in their own skin. This perfume has an impressive persistence, which can be felt for up to 8 hours on the skin and even 16 hours on clothes. Its elegant packaging makes it easy to transport, being perfect for those who love to be on the move. Rave Now is an excellent choice for men who want to distinguish themselves with their perfume and attract the attention of those around them.",
         "imagesDetail": [
             {
@@ -145,6 +149,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Qaaed-100-ml.jpg",
         "description": "Olfactory Character: Oriental ",
         "longDescription": "iscover the Arabic oriental perfume Qaa'ed in a unique presentation, 100 ml bottle for Unisex produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Qaa’ed by Lattafa Perfumes 100 ml",
@@ -176,6 +181,7 @@
     },
     {
         "id": 6,
+        "price": 100,
         "name": "Ade’e al Oud Amethyst by Lattafa Perfumes 100 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2022/02/Rasheed-Parfum-Arabesc-Original-Lattafa-Perfumes-Badee-al-Oud-Amethyst-100-ml.jpg",
         "description": "Olfactory Character: Oriental – Woody",
@@ -211,6 +217,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Ard-al-Zaafaran-Intesar-al-Hub-100-ml.jpg",
         "description": "Olfactory character: Oriental",
         "longDescription": "Discover the Arab oriental perfume Intesar al Hub in a unique presentation, 100 ml bottle for Unisex produced by the great manufacturer from Dubai: Ard al Zaafaran.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Intesar al Hub by Ard al Zaafaran 100 ml ",
@@ -242,6 +249,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Fakhar-100-ml.jpg",
         "description": "Olfactory Character: Oriental Woody",
         "longDescription": "Discover the Arabic oriental perfume Fakhar in a unique presentation, 100 ml bottle for Men produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Fakhar by Lattafa Perfumes 100 ml",
@@ -273,6 +281,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Ard-al-Zaafaran-I-Am-the-King-100-ml.jpg",
         "description": "Olfactory Character: Woody",
         "longDescription": "Discover the Arab oriental perfume I Am the King in a unique presentation, 100 ml bottle for Men produced by the great manufacturer from Dubai: Ard al Zaafaran.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "I Am the King by Ard al Zaafaran 100 ml ",
@@ -304,6 +313,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2022/06/Rave-Now-Rouge-Parfum-Oriental-Arabesc-Rasheed-Front.webp",
         "description": "Now by Rave is an oriental fragrance for women.",
         "longDescription": "Discover the Arabic oriental perfume NOW in a unique presentation, 100 ml bottle for Women produced by the great manufacturer in Dubai: Rave.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Now Rouge by RAVE 100 ML",
@@ -335,6 +345,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Fakhar-Femme-100-ml.jpg",
         "description": "Olfactory Character: Floral",
         "longDescription": "Discover the oriental Arabic perfume Fakhar Femme in a unique presentation, 100 ml bottle for Women produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Fakhar Femme by Lattafa Perfumes 100 ml ",
@@ -366,6 +377,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Asdaaf-Andaleeb-100-ml.jpg",
         "description": "Olfactory Character: Oriental ",
         "longDescription": "Discover the Arabic oriental perfume Andaleeb in a unique presentation, 100 ml bottle for Women produced by the great manufacturer in Dubai: Asdaaf",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Andaleeb by Asdaaf 100 ml",
@@ -397,6 +409,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Ard-al-Zaafaran-I-Am-the-Queen-100-ml.jpg",
         "description": "Olfactory Character: Woody",
         "longDescription": "Discover the Arabic oriental perfume I Am the Queen in a unique presentation, 100 ml bottle for Women produced by the great manufacturer from Dubai: Ard al Zaafaran.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "I Am the Queen by Ard al Zaafaran 100 ml",
@@ -428,6 +441,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Ana-Abiyedh-Rouge-60-ml.jpg",
         "description": "Olfactory Character: Woody",
         "longDescription": "Discover the Arab oriental perfume Ana Abiyedh Rouge in a unique presentation, 60 ml bottle for Women produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Ana Abiyedh Rouge by Lattafa Perfumes 60 ml ",
@@ -458,6 +472,7 @@
         "name": "Yara by Lattafa Perfumes 100 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2022/02/Rasheed-Parfum-Arabesc-Original-Lattafa-Perfumes-Yara-100-ml.jpg",
         "description": "Olfactory Character: Oriental",
+        "price": 100,
         "longDescription": "Yara is an oriental Arabic perfume for women, manufactured by the great manufacturer Lattafa. This perfume has a sweet and fresh aroma, with a slight powdery accent. The top notes are heliotrope, orchid and mandarin, which give a fresh and delicate fragrance. The middle notes are Gourmand Accord and tropical fruits, which add an exotic and delicious air. The base notes are vanilla, sandalwood and musk, which offer a warm and comfortable fragrance that will last throughout the day. Yara is perfect for women who want to feel special and elegant.",
         "imagesDetail": [
             {
@@ -490,6 +505,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Musk-Mood-100-ml.jpg",
         "description": "Olfactory Character: Oriental",
         "longDescription": "Discover the Arabic oriental perfume Musk Mood in a unique presentation, 100 ml bottle for Men produced by the great manufacturer from Dubai: Lattafa Perfumes.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Musk Mood by Lattafa Perfumes 100 ml ",
@@ -521,6 +537,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2022/02/Rasheed-Parfum-Arabesc-Original-Ard-al-Zaafaran-Shams-al-Emarat-Khususi-100-ml.jpg",
         "description": "Olfactory Character: Aromatic",
         "longDescription": "Discover the Arab oriental perfume Shams al Emarat Khususi in a unique presentation, 100 ml bottle for Unisex produced by the great manufacturer: Ard al Zaafaran.",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Shams al Emarat Khususi by Ard al Zaafaran 100 ml ",
@@ -551,6 +568,7 @@
         "name": "Qimmah for Women by Lattafa Perfumes 100 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Lattafa-Perfumes-Qimmah-for-Women-100-ml.jpg",
         "description": "Olfactory Character: Oriental",
+        "price": 100,
         "longDescription": "Discover the Arab oriental perfume Qimmah for Women in a unique presentation, 100 ml bottle for Women produced by the great manufacturer from Dubai: Lattafa Perfumes.",
         "imagesDetail": [
             {
@@ -582,6 +600,7 @@
         "name": "Prive Club for Women by Vurv 100 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2021/08/Rasheed-Parfum-Arabesc-Oriental-Original-Vurv-Prive-Club-pour-Femme-100-ml.jpg",
         "description": "Olfactory Character: Oriental Floral",
+        "price": 100,
         "longDescription": "Discover the Arab oriental perfume Prive Club pour Femme in a unique presentation, 100 ml bottle for Women produced by the great manufacturer in Dubai: Vurv.",
         "imagesDetail": [
             {
@@ -613,6 +632,7 @@
         "name": "Ana Abiyedh Poudree by Lattafa Perfumes 60 ml ",
         "image": "https://rasheed.ro/wp-content/uploads/2022/10/Rasheed-lattafa-Ana-Abiyedh-I-am-white-poudree-60ml-apa-de-parfum-arabesc-aa-400x400.jpg",
         "description": "Olfactory Character: Floral",
+        "price": 100,
         "longDescription": "Discover the Arab oriental perfume Ana Abiyedh Poudree in a unique presentation, 60 ml bottle for Women produced by the great manufacturer from Dubai: Lattafa Perfumes.",
         "imagesDetail": [
             {
@@ -644,6 +664,7 @@
         "name": "Ana Abiyedh White, Rouge and Leather",
         "image": "https://rasheed.ro/wp-content/uploads/2022/01/SET-LATTAFA-ANA-ABIYEDH-WHITE-ROUGE-LEATHER-High-Quality.jpg",
         "description": "The offer contains all 3 Ana Abiyedh perfumes: White, Rouge, Leather",
+        "price": 100,
         "longDescription": "Discover the Arab oriental perfume Ana Abiyedh,Ana Abiyedh Rouge and Ana Abiyedh Leathe in a unique presentation, 60 ml bottle for Women produced by the great manufacturer from Dubai: Lattafa Perfumes.",
         "imagesDetail": [
             {
@@ -679,6 +700,7 @@
         "name": "24 Carat White Gold & 24 Carat Pure Gold",
         "image": "https://rasheed.ro/wp-content/uploads/2022/01/SET-LATTAFA-24-CARAT-GOLD-High-Quality-400x400.jpg",
         "longDescription": "The offer contains two perfumes: 24 Carat White Gold & 24 Carat Pure Gold",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "1 × 24 Carat White Gold by Lattafa Perfumes 100 ml ",
@@ -702,6 +724,7 @@
         "image": "https://rasheed.ro/wp-content/uploads/2022/03/Thameen-Collection-by-Lattafa-Set-4-Parfumuri-Unisex-.jpg",
         "description": "The offer contains the 4 unisex perfumes from the Thameen by Lattafa collection",
         "longDescription": "Thameen Collection by Lattafa- Set of 2 Unisex Perfumes",
+        "price": 100,
         "imagesDetail": [
             {
                 "name": "Thameen Collection – Maali by Lattafa Perfumes 30 ml",

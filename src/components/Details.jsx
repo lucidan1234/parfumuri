@@ -3,12 +3,16 @@ import { useParams } from "react-router-dom"
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
 import { Carousel } from "react-responsive-carousel"
 import './style/details.css'
+import { useContext } from 'react';
+import { globalContext } from './Context/context';
+
+
 
 const Details = () => {
 
     const { id } = useParams()
     const [parfumes, setParfumes] = useState([])
-
+    const [order, setOrder] = useContext(globalContext)
     useEffect(() => {
         const fetchData = async () => {
             const res = await fetch('../data.json')
@@ -39,7 +43,19 @@ const Details = () => {
             <div className="detailsContainer">
                 {parfumes?.map((e, key) => {
                     return (
-                        <h3 key={key}>{e.longDescription}</h3>
+                        <div>
+                            <h3 key={key}>{e.longDescription}</h3>
+                            <button className="btn" onClick={() => {
+                                setOrder(prev => [
+                                    ...prev,
+                                    {
+                                        ...e,
+                                        quantity: 1
+                                    }
+                                ])
+                            }}>Buy</button>
+                        </div>
+
                     )
                 })}
             </div>

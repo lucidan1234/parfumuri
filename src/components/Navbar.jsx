@@ -7,10 +7,7 @@ import "./style/navbar.css";
 const Navbar = () => {
     const navigate = useNavigate();
 
-
-
     return (
-
         <div className="nav_container">
             <span>
                 <Link to="/"></Link>

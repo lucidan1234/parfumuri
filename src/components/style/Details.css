@@ -1,6 +1,6 @@
 .container-details {
     display: flex;
-    /* grid-template-columns: repeat(2, 1fr); */
+    grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     flex-direction: column;
     margin: 20px;
@@ -32,4 +32,26 @@ img {
 
 .userName {
     font-weight: bold;
+}
+
+.legend {
+    font-style: italic;
+}
+
+.btn {
+    display: inline;
+    font-weight: 900;
+    text-decoration: none;
+    letter-spacing: -0.05em;
+    background-color: rgb(223, 232, 236);
+    color: var(--clr-light);
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgba(153, 134, 138, 0.5), 0 6px 6px rgba(144, 131, 134, 0.5), 0 0 100px rgba(233, 224, 226, 0.22);
+    transition: transform 0.3;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 28px rgba(41, 40, 40, 0.25), 0 10px 10px rgba(46, 43, 43, 0.22), 0 0 120px -10px rgba(53, 51, 51, 0.22);
 }

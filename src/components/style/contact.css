@@ -1,45 +1,120 @@
 .contact-container {
-    justify-content: center;
     display: grid;
+    justify-content: center;
     color: black;
+    margin: 25px;
 
-}
-
-.input {
-    padding: 10px 50px;
 }
 
 .button {
     margin-top: 1rem;
-    padding: 10px;
+    padding: 5px;
     cursor: pointer;
 }
 
-.topic {
-    display: grid;
-    justify-content: center;
-    padding: 5px;
-}
-
 .name {
-    display: grid;
-    justify-content: center;
+    display: flex;
+    justify-content: start;
     padding: 5px;
 }
 
 .email {
-    display: grid;
-    justify-content: center;
+    display: flex;
+    justify-content: start;
+    padding: 5px;
+}
+
+.subject {
+    display: flex;
+    justify-content: start;
     padding: 5px;
 }
 
 .submit {
-    display: grid;
+    display: flex;
     justify-content: center;
+    width: 70px;
     margin: 20px;
+    border-radius: 15px;
+    padding: 2px;
+
 }
 
 .input.name {
-    display: grid;
+    display: flex;
     justify-content: center;
+}
+
+input {
+    padding: 3px 20px;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.company {
+    height: 40px;
+}
+
+.address {
+    color: brown;
+    height: 1px;
+}
+
+.cui {
+    color: brown;
+    height: 1px;
+}
+
+.region {
+    color: brown;
+    height: 1px;
+}
+
+.register {
+    color: brown
+}
+
+.contactUs {
+    color: brown;
+    width: 600px;
+    height: 10px;
+}
+
+.phone {
+    height: 35px;
+}
+
+.mobile {
+    color: blueviolet;
+    height: 1px;
+}
+
+.able {
+    color: brown;
+    width: 600px;
+    height: 5px;
+}
+
+.mail {
+    height: 30px;
+}
+
+.mail-id {
+    color: brown;
+}
+
+.textarea {
+    display: flex;
+    border-radius: 5px;
+}
+
+.send-message {
+    display: flex;
+    width: 1600px;
+    height: 520px; 
+    background-color: #7661b1;
+    color: aliceblue;
+    padding: 5em;
+    text-align: center;
 }
